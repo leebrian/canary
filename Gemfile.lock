@@ -7,7 +7,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activejob (= 5.1.0)
+  activejob (= 1.1.0)
 
 RUBY VERSION
    ruby 2.4.2p198
